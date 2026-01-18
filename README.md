@@ -6,7 +6,7 @@ This is an enhanced version of the IoT measurement analysis system from Submissi
 
 - Key Improvements from Submission 1
 
-- 1. Class and Struct Implementation
+ 1. Class and Struct Implementation
 - Measurement struct: Simple data container for individual measurements with value and timestamp
 - DataManager class: Comprehensive class handling all data operations and analysis
 
